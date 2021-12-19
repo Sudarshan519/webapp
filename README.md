@@ -1,5 +1,5 @@
 # Portfolio 
-#Sudarshan Shresta
+#Profile
 
 Hello I am Sudarshan Shrestha.
 
